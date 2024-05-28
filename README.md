@@ -37,5 +37,7 @@ git clone https://github.com/SrDavidAntonio2003/SSIS.git
 
 ## Ejecución
 
-- Crear base datos SSISIntro en SSMS
-- Ejecutar primero el paquete llamado "createTableBD" y luego "ImportarXMLFile"
+- Crea la base de datos "SSISIntro" en SQL Server Management Studio (SSMS).
+- Verifica las conexiones a la base de datos.
+- Revisa las rutas de la carpeta de datos en el flujo de trabajo, especialmente en la herramienta denominada "Origen XML".
+- Ejecuta primero el paquete llamado "CreateTableBD" y luego "ImportarXMLFile".
